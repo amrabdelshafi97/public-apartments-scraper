@@ -7,26 +7,6 @@
     "size": 75,
     "link": "https://www.wbm.de/wohnungen-berlin/angebote/details/wbs-160-180-220-wohnkomfort-pur-lichtdurchflutete-3-zimmer-mit-balkon/",
     "id": "wbm_https___www_wbm_de_wohnungen_berlin_angebote_details_wbs_160_180_220_wohnkomfort_pur_lichtdurchflutete_3_zimmer_mit_balkon_",
-    "fetchedAt": "2026-05-11T11:45:44.152Z"
-  },
-  {
-    "title": "3-Zimmer-Wohnung mit WBS 140",
-    "address": "Leipziger Strasse 48, 10117 Berlin",
-    "rooms": 3,
-    "rent": 697.55,
-    "size": 60,
-    "link": "https://www.wbm.de/wohnungen-berlin/angebote/details/3-zimmer-wohnung-mit-wbs-140/",
-    "id": "wbm_https___www_wbm_de_wohnungen_berlin_angebote_details_3_zimmer_wohnung_mit_wbs_140_",
-    "fetchedAt": "2026-05-11T11:45:44.152Z"
-  },
-  {
-    "title": "3-Zimmer-Wohnung",
-    "address": "Fischerinsel 2, 10179 Berlin",
-    "rooms": 3,
-    "rent": 777.52,
-    "size": 56,
-    "link": "https://www.wbm.de/wohnungen-berlin/angebote/details/3-zimmer-wohnung/",
-    "id": "wbm_https___www_wbm_de_wohnungen_berlin_angebote_details_3_zimmer_wohnung_",
-    "fetchedAt": "2026-05-11T11:45:44.152Z"
+    "fetchedAt": "2026-05-11T12:00:54.715Z"
   }
 ]
