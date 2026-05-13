@@ -1,0 +1,222 @@
+[
+  {
+    "title": "Janusz-Korczak-Straße 22, 12627 Berlin",
+    "address": "Janusz-Korczak-Straße 22, 12627 Berlin",
+    "rooms": 3,
+    "rent": 583.69,
+    "size": 72.87,
+    "link": "https://immonexxt.com/en/expose/617694d4-d703-4aa1-bcbe-2d1e6b344087",
+    "id": "immonexxt_https___immonexxt_com_en_expose_617694d4_d703_4aa1_bcbe_2d1e6b344087",
+    "fetchedAt": "2026-05-13T16:32:42.519Z"
+  },
+  {
+    "title": "Zossener Straße 176, 12627 Berlin",
+    "address": "Zossener Straße 176, 12627 Berlin",
+    "rooms": 3,
+    "rent": 819,
+    "size": 69.93,
+    "link": "https://immonexxt.com/en/expose/6dd2bb13-951a-4e7d-843d-60c303995c26",
+    "id": "immonexxt_https___immonexxt_com_en_expose_6dd2bb13_951a_4e7d_843d_60c303995c26",
+    "fetchedAt": "2026-05-13T16:32:42.519Z"
+  },
+  {
+    "title": "Havelländer Ring 23, 12629 Berlin",
+    "address": "Havelländer Ring 23, 12629 Berlin",
+    "rooms": 3,
+    "rent": 829,
+    "size": 68,
+    "link": "https://immonexxt.com/en/expose/14cbf437-3dc4-4b6c-8300-78fba94bbf00",
+    "id": "immonexxt_https___immonexxt_com_en_expose_14cbf437_3dc4_4b6c_8300_78fba94bbf00",
+    "fetchedAt": "2026-05-13T16:32:42.519Z"
+  },
+  {
+    "title": "Zossener Straße 168, 12627 Berlin",
+    "address": "Zossener Straße 168, 12627 Berlin",
+    "rooms": 3,
+    "rent": 829,
+    "size": 68.54,
+    "link": "https://immonexxt.com/en/expose/a3d2b1dd-51ca-4164-9802-11ffea35806d",
+    "id": "immonexxt_https___immonexxt_com_en_expose_a3d2b1dd_51ca_4164_9802_11ffea35806d",
+    "fetchedAt": "2026-05-13T16:32:42.519Z"
+  },
+  {
+    "title": "Zossener Straße 172, 12627 Berlin",
+    "address": "Zossener Straße 172, 12627 Berlin",
+    "rooms": 3,
+    "rent": 829,
+    "size": 68.54,
+    "link": "https://immonexxt.com/en/expose/f811692d-6b0c-4fc0-ace2-ffdab027eaf6",
+    "id": "immonexxt_https___immonexxt_com_en_expose_f811692d_6b0c_4fc0_ace2_ffdab027eaf6",
+    "fetchedAt": "2026-05-13T16:32:42.519Z"
+  },
+  {
+    "title": "Naumburger Ring 60, 12627 Berlin",
+    "address": "Naumburger Ring 60, 12627 Berlin",
+    "rooms": 3,
+    "rent": 839,
+    "size": 68.46,
+    "link": "https://immonexxt.com/en/expose/319ef6a5-9459-4107-8de3-a302c11f543a",
+    "id": "immonexxt_https___immonexxt_com_en_expose_319ef6a5_9459_4107_8de3_a302c11f543a",
+    "fetchedAt": "2026-05-13T16:32:42.519Z"
+  },
+  {
+    "title": "Quedlinburger Straße 16, 12627 Berlin",
+    "address": "Quedlinburger Straße 16, 12627 Berlin",
+    "rooms": 3,
+    "rent": 879,
+    "size": 73.05,
+    "link": "https://immonexxt.com/en/expose/c1a2c565-43ad-4e97-858f-0562c5d860af",
+    "id": "immonexxt_https___immonexxt_com_en_expose_c1a2c565_43ad_4e97_858f_0562c5d860af",
+    "fetchedAt": "2026-05-13T16:32:42.519Z"
+  },
+  {
+    "title": "Ahrenshooper Straße 10, 13051 Berlin",
+    "address": "Ahrenshooper Straße 10, 13051 Berlin",
+    "rooms": 3,
+    "rent": 959,
+    "size": 71.2,
+    "link": "https://immonexxt.com/en/expose/53924975-e4b3-4cee-a284-247ee471c8a3",
+    "id": "immonexxt_https___immonexxt_com_en_expose_53924975_e4b3_4cee_a284_247ee471c8a3",
+    "fetchedAt": "2026-05-13T16:32:42.519Z"
+  },
+  {
+    "title": "Rhinstraße 3, 10315 Berlin",
+    "address": "Rhinstraße 3, 10315 Berlin",
+    "rooms": 3,
+    "rent": 969,
+    "size": 71.2,
+    "link": "https://immonexxt.com/en/expose/b6d4d589-14c1-47d8-a219-35215778276b",
+    "id": "immonexxt_https___immonexxt_com_en_expose_b6d4d589_14c1_47d8_a219_35215778276b",
+    "fetchedAt": "2026-05-13T16:32:42.519Z"
+  },
+  {
+    "title": "Rhinstraße 7, 10315 Berlin",
+    "address": "Rhinstraße 7, 10315 Berlin",
+    "rooms": 3,
+    "rent": 969,
+    "size": 68.86,
+    "link": "https://immonexxt.com/en/expose/e1dfe2c6-58d8-468d-bd21-3f0271e20d00",
+    "id": "immonexxt_https___immonexxt_com_en_expose_e1dfe2c6_58d8_468d_bd21_3f0271e20d00",
+    "fetchedAt": "2026-05-13T16:32:42.519Z"
+  },
+  {
+    "title": "Ullsteinstraße 127 A, 12109 Berlin",
+    "address": "Ullsteinstraße 127 A, 12109 Berlin",
+    "rooms": 3,
+    "rent": 999,
+    "size": 73.49,
+    "link": "https://immonexxt.com/en/expose/486b0487-2483-4082-8406-8a0faf1a2bf0",
+    "id": "immonexxt_https___immonexxt_com_en_expose_486b0487_2483_4082_8406_8a0faf1a2bf0",
+    "fetchedAt": "2026-05-13T16:32:42.519Z"
+  },
+  {
+    "title": "Wustermarker Straße 101 a, 13583 Berlin",
+    "address": "Wustermarker Straße 101 a, 13583 Berlin",
+    "rooms": 3,
+    "rent": 1.069,
+    "size": 82.3,
+    "link": "https://immonexxt.com/en/expose/60ffcefd-7c0a-4c90-b7f9-8f52c23566f3",
+    "id": "immonexxt_https___immonexxt_com_en_expose_60ffcefd_7c0a_4c90_b7f9_8f52c23566f3",
+    "fetchedAt": "2026-05-13T16:32:42.519Z"
+  },
+  {
+    "title": "Hofzeichendamm 35, 13125 Berlin",
+    "address": "Hofzeichendamm 35, 13125 Berlin",
+    "rooms": 3,
+    "rent": 1.069,
+    "size": 74.29,
+    "link": "https://immonexxt.com/en/expose/ed2bc005-4f94-4440-9a4b-eefbc791be39",
+    "id": "immonexxt_https___immonexxt_com_en_expose_ed2bc005_4f94_4440_9a4b_eefbc791be39",
+    "fetchedAt": "2026-05-13T16:32:42.519Z"
+  },
+  {
+    "title": "Ricarda-Huch-Straße 34, 14480 Potsdam",
+    "address": "Ricarda-Huch-Straße 34, 14480 Potsdam",
+    "rooms": 3,
+    "rent": 1.129,
+    "size": 69.63,
+    "link": "https://immonexxt.com/en/expose/49afb61e-6981-4ceb-ab48-34341c1b1dc2",
+    "id": "immonexxt_https___immonexxt_com_en_expose_49afb61e_6981_4ceb_ab48_34341c1b1dc2",
+    "fetchedAt": "2026-05-13T16:32:42.519Z"
+  },
+  {
+    "title": "Ricarda-Huch-Straße 28, 14480 Potsdam",
+    "address": "Ricarda-Huch-Straße 28, 14480 Potsdam",
+    "rooms": 3,
+    "rent": 1.129,
+    "size": 79.2,
+    "link": "https://immonexxt.com/en/expose/2c222eaa-626d-4f00-8d7f-c8b6c360978a",
+    "id": "immonexxt_https___immonexxt_com_en_expose_2c222eaa_626d_4f00_8d7f_c8b6c360978a",
+    "fetchedAt": "2026-05-13T16:32:42.519Z"
+  },
+  {
+    "title": "Cottbusser Straße 81, 12627 Berlin",
+    "address": "Cottbusser Straße 81, 12627 Berlin",
+    "rooms": 4,
+    "rent": 1.169,
+    "size": 86.52,
+    "link": "https://immonexxt.com/en/expose/621b7d23-5895-47b1-ae80-2fdfc51ed7fa",
+    "id": "immonexxt_https___immonexxt_com_en_expose_621b7d23_5895_47b1_ae80_2fdfc51ed7fa",
+    "fetchedAt": "2026-05-13T16:32:42.519Z"
+  },
+  {
+    "title": "Gärtnerstraße 54, 13055 Berlin",
+    "address": "Gärtnerstraße 54, 13055 Berlin",
+    "rooms": 3,
+    "rent": 1.189,
+    "size": 81.41,
+    "link": "https://immonexxt.com/en/expose/2672eee1-9670-431b-a694-43e8954561eb",
+    "id": "immonexxt_https___immonexxt_com_en_expose_2672eee1_9670_431b_a694_43e8954561eb",
+    "fetchedAt": "2026-05-13T16:32:42.519Z"
+  },
+  {
+    "title": "Am Hirtengraben 29, 14480 Potsdam",
+    "address": "Am Hirtengraben 29, 14480 Potsdam",
+    "rooms": 3,
+    "rent": 1.189,
+    "size": 74.93,
+    "link": "https://immonexxt.com/en/expose/44dbcc96-07f2-4b66-a315-022d97b16d43",
+    "id": "immonexxt_https___immonexxt_com_en_expose_44dbcc96_07f2_4b66_a315_022d97b16d43",
+    "fetchedAt": "2026-05-13T16:32:42.519Z"
+  },
+  {
+    "title": "Margarete-Buber-Neumann-Straße 5, 14480 Potsdam",
+    "address": "Margarete-Buber-Neumann-Straße 5, 14480 Potsdam",
+    "rooms": 3,
+    "rent": 1.199,
+    "size": 80.05,
+    "link": "https://immonexxt.com/en/expose/5d8c50c9-4232-4445-93ae-c5b57473a6f6",
+    "id": "immonexxt_https___immonexxt_com_en_expose_5d8c50c9_4232_4445_93ae_c5b57473a6f6",
+    "fetchedAt": "2026-05-13T16:32:42.519Z"
+  },
+  {
+    "title": "Blankenfelder Straße 78, 13127 Berlin",
+    "address": "Blankenfelder Straße 78, 13127 Berlin",
+    "rooms": 4,
+    "rent": 1.359,
+    "size": 88.83,
+    "link": "https://immonexxt.com/en/expose/d1a1cefa-81f7-46cd-9641-a78c56a38143",
+    "id": "immonexxt_https___immonexxt_com_en_expose_d1a1cefa_81f7_46cd_9641_a78c56a38143",
+    "fetchedAt": "2026-05-13T16:32:42.519Z"
+  },
+  {
+    "title": "Einbecker Straße 44, 10315 Berlin",
+    "address": "Einbecker Straße 44, 10315 Berlin",
+    "rooms": 4,
+    "rent": 1.854,
+    "size": 100.26,
+    "link": "https://immonexxt.com/en/expose/72c0bc8b-2cc8-48ad-85ec-578a924b0551",
+    "id": "immonexxt_https___immonexxt_com_en_expose_72c0bc8b_2cc8_48ad_85ec_578a924b0551",
+    "fetchedAt": "2026-05-13T16:32:42.519Z"
+  },
+  {
+    "title": "Grünstraße 6, 12555 Berlin",
+    "address": "Grünstraße 6, 12555 Berlin",
+    "rooms": 3,
+    "rent": 2.338,
+    "size": 116.88,
+    "link": "https://immonexxt.com/en/expose/397e818c-4dbd-4f68-976f-0b222bfc9763",
+    "id": "immonexxt_https___immonexxt_com_en_expose_397e818c_4dbd_4f68_976f_0b222bfc9763",
+    "fetchedAt": "2026-05-13T16:32:42.519Z"
+  }
+]
