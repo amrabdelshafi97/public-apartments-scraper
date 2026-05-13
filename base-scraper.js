@@ -1,4 +1,3 @@
-require('dotenv').config();
 const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
@@ -173,9 +172,13 @@ class BaseScraper {
     return `${source}-${address}-${title}`.replace(/[^a-z0-9]/gi, '_').toLowerCase();
   }
 
+  async shutdown() {
+    await this.cleanupBrowser();
+  }
+
   filterApartments(apartments) {
     return apartments.filter(apt => {
-      const roomsOk = this.config.targetRooms === 0 || apt.rooms === this.config.targetRooms;
+      const roomsOk = this.config.targetRooms === 0 || apt.rooms >= this.config.targetRooms;
       const rentOk = this.config.maxRent === 0 || apt.rent <= this.config.maxRent;
       return roomsOk && rentOk;
     });

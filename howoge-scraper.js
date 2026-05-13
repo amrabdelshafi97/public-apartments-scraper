@@ -1,19 +1,16 @@
-require('dotenv').config();
-const path = require('path');
-const schedule = require('node-schedule');
+const config = require('./config');
 const BaseScraper = require('./base-scraper');
 
-const DEFAULT_CONFIG = {
-  targetRooms: 3,
-  maxRent: 1200,
-  checkInterval: '*/5 * * * *',
-  dataFile: path.join(__dirname, 'howoge-data.json'),
-  url: 'https://www.howoge.de/immobiliensuche/wohnungssuche.html'
-};
-
 class HowogeScraper extends BaseScraper {
-  mergeConfig(config) {
-    return { ...DEFAULT_CONFIG, ...config };
+  mergeConfig(overrides) {
+    return {
+      targetRooms: config.targetRooms,
+      maxRent: config.maxRent,
+      checkInterval: config.checkInterval,
+      dataFile: config.howogeDataFile,
+      url: config.howogeUrl,
+      ...overrides,
+    };
   }
 
   getSourceName() {
@@ -127,32 +124,6 @@ class HowogeScraper extends BaseScraper {
     } finally {
       await this.cleanupBrowser();
     }
-  }
-
-  start() {
-    console.log(`🚀 Howoge Scraper started!`);
-    console.log(`   Mode: Notifying apartments matching criteria`);
-    console.log(`   Rooms: ${this.config.targetRooms}, Max Rent: €${this.config.maxRent}`);
-    console.log(`   Data file: ${this.config.dataFile}\n`);
-
-    this.run().catch(error => {
-      console.error(`[${this.timestamp()}] Initial run failed:`, error);
-    });
-
-    this.scheduledJob = schedule.scheduleJob(this.config.checkInterval, () => {
-      this.run().catch(error => {
-        console.error(`[${this.timestamp()}] Scheduled run failed:`, error);
-      });
-    });
-  }
-
-  async shutdown() {
-    console.log(`[${this.timestamp()}] Shutting down Howoge scraper...`);
-    if (this.scheduledJob) {
-      this.scheduledJob.cancel();
-    }
-    await this.cleanupBrowser();
-    console.log(`[${this.timestamp()}] Howoge scraper shut down gracefully`);
   }
 }
 
