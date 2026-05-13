@@ -1,11 +1,13 @@
 require('dotenv').config();
 const WBMScraper = require('./wbm-scraper');
 const HowogeScraper = require('./howoge-scraper');
+const ImmoNeXxtScraper = require('./immonexxt-scraper');
 
 class ScraperOrchestrator {
   constructor() {
     this.wbmScraper = new WBMScraper();
     this.howogeScraper = new HowogeScraper();
+    this.immonexxtScraper = new ImmoNeXxtScraper();
   }
 
   async runAllScrapers() {
@@ -13,10 +15,11 @@ class ScraperOrchestrator {
 
     const results = await Promise.allSettled([
       this.wbmScraper.run(),
-      this.howogeScraper.run()
+      this.howogeScraper.run(),
+      this.immonexxtScraper.run()
     ]);
 
-    const sources = ['WBM', 'Howoge'];
+    const sources = ['WBM', 'Howoge', 'ImmoNeXxt'];
     results.forEach((result, idx) => {
       if (result.status === 'rejected') {
         console.error(`[${new Date().toISOString()}] ❌ ${sources[idx]} scraper failed:`, result.reason.message);
