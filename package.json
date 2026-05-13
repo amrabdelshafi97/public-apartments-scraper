@@ -2,12 +2,11 @@
   "name": "wbm-apartment-scraper",
   "version": "1.0.0",
   "description": "Background service to monitor and notify about new apartments in Berlin",
-  "main": "orchestrator.js",
+  "main": "run-scraper.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node orchestrator.js",
-    "dev": "nodemon orchestrator.js",
-    "scrape": "node run-scraper.js"
+    "start": "node run-scraper.js",
+    "dev": "nodemon run-scraper.js"
   },
   "dependencies": {
     "axios": "^1.6.0",
