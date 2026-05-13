@@ -6,7 +6,8 @@
   "type": "commonjs",
   "scripts": {
     "start": "node run-scraper.js",
-    "dev": "nodemon run-scraper.js"
+    "dev": "nodemon run-scraper.js",
+    "scrape": "node run-scraper.js"
   },
   "dependencies": {
     "axios": "^1.6.0",
