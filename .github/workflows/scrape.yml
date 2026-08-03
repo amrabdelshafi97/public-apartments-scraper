@@ -46,6 +46,7 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "chore: update apartments data [skip ci]"
-            git pull --rebase origin main
+            git fetch origin main
+            git rebase origin/main
             git push
           fi
