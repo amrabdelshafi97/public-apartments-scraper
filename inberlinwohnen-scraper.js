@@ -70,33 +70,32 @@ class InBerlinWohnenScraper extends BaseScraper {
         }
 
         const pageItems = await this.page.evaluate(() => {
-          const titleSnaps = {};
-          const deeplinkSnaps = {};
+          const items = {};
 
           for (const el of document.getElementsByTagName('*')) {
             if (!el.hasAttribute('wire:snapshot')) continue;
             try {
-              const data = JSON.parse(el.getAttribute('wire:snapshot'));
-              const d = data.data;
-              const name = data.memo?.name || '';
-              if (name.includes('collapsible-apartment-title') && d && d.itemId) {
-                titleSnaps[d.itemId] = d;
-              } else if (name.includes('deeplink-button') && d && d.flatId) {
-                deeplinkSnaps[d.flatId] = d;
-              }
+              const snap = JSON.parse(el.getAttribute('wire:snapshot'));
+              const name = snap.memo?.name || '';
+              if (name !== 'apartment-finder.item.apartment-item') continue;
+              const raw = snap.data?.data?.[0];
+              if (!raw?.id) continue;
+              items[raw.id] = raw;
             } catch (e) {}
           }
 
-          return Object.values(titleSnaps).map(d => ({
-            itemId: d.itemId,
+          return Object.values(items).map(d => ({
+            itemId: d.id,
             rooms: d.rooms || '0',
             area: d.area || '0',
-            rentNet: d.rentNet || '0',
-            street: d.street || '',
-            number: d.number || '',
-            zipCode: d.zipCode || '',
-            district: d.district || '',
-            deeplink: deeplinkSnaps[d.itemId]?.deeplink || '',
+            rentNet: parseFloat(d.rent_net) || 0,
+            extraCosts: parseFloat(d.extra_costs) || 0,
+            heatingCosts: parseFloat(d.heating_costs) || 0,
+            street: d.address?.[0]?.street_name || '',
+            number: d.address?.[0]?.street_number || '',
+            zipCode: d.address?.[0]?.zip_code || '',
+            district: d.address?.[0]?.district?.[0]?.name || '',
+            deeplink: d.deeplink || '',
           }));
         });
 
@@ -108,9 +107,9 @@ class InBerlinWohnenScraper extends BaseScraper {
 
       return allApartments.map(item => {
         const address = `${item.street} ${item.number}, ${item.zipCode} ${item.district}`.trim();
-        const rooms = parseInt(item.rooms.replace(',', '.')) || 0;
-        const rent = parseFloat(item.rentNet.replace('.', '').replace(',', '.')) || 0;
-        const size = parseFloat(item.area.replace('.', '').replace(',', '.')) || 0;
+        const rooms = parseFloat(item.rooms.replace(',', '.')) || 0;
+        const rent = Math.round((item.rentNet + item.extraCosts + item.heatingCosts) * 100) / 100;
+        const size = parseFloat(item.area.replace(',', '.')) || 0;
         const link = item.deeplink;
 
         return {
