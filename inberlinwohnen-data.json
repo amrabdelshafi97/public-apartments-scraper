@@ -1,15 +1,5 @@
 [
   {
-    "title": "Rüdickenstraße 33B, 13053 Neu-Hohenschönhausen",
-    "address": "Rüdickenstraße 33B, 13053 Neu-Hohenschönhausen",
-    "rooms": 3,
-    "rent": 1559.55,
-    "size": 81,
-    "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20704-150.html?t=ibw",
-    "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_20704_150_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.859Z"
-  },
-  {
     "title": "Klara-Weyl-Straße 11, 10365 Lichtenberg",
     "address": "Klara-Weyl-Straße 11, 10365 Lichtenberg",
     "rooms": 3,
@@ -17,7 +7,7 @@
     "size": 69,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14555-305.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1771_14555_305_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.859Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Belziger Ring 66, 12689 Marzahn",
@@ -27,17 +17,17 @@
     "size": 68.49,
     "link": "https://www.degewo.de/de/properties/W1400-40726-0340-0502.html",
     "id": "inberlinwohnen_https___www_degewo_de_de_properties_w1400_40726_0340_0502_html",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
-    "title": "An den Buckower Feldern 19, 12349 Buckow",
-    "address": "An den Buckower Feldern 19, 12349 Buckow",
+    "title": "Rüdickenstraße 33B, 13053 Neu-Hohenschönhausen",
+    "address": "Rüdickenstraße 33B, 13053 Neu-Hohenschönhausen",
     "rooms": 3,
-    "rent": 1519.29,
-    "size": 79.46,
-    "link": "https://stadtundland.de/wohnungssuche/1001%2F5248%2F00183",
-    "id": "inberlinwohnen_https___stadtundland_de_wohnungssuche_1001_2f5248_2f00183",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "rent": 1559.55,
+    "size": 81,
+    "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20704-150.html?t=ibw",
+    "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_20704_150_html_t_ibw",
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Alt-Mariendorf 55, 12107 Mariendorf",
@@ -47,7 +37,7 @@
     "size": 70.58,
     "link": "https://stadtundland.de/wohnungssuche/1001%2F5132%2F00034",
     "id": "inberlinwohnen_https___stadtundland_de_wohnungssuche_1001_2f5132_2f00034",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "An den Buckower Feldern 17, 12349 Buckow",
@@ -57,7 +47,7 @@
     "size": 84.54,
     "link": "https://stadtundland.de/wohnungssuche/1001%2F5248%2F00198",
     "id": "inberlinwohnen_https___stadtundland_de_wohnungssuche_1001_2f5248_2f00198",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Goeckestraße 33A, 13055 Alt-Hohenschönhausen",
@@ -67,7 +57,7 @@
     "size": 92,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14578-122.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1771_14578_122_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Igelsteig 7B, 12557 Köpenick",
@@ -77,7 +67,7 @@
     "size": 84.03,
     "link": "https://www.degewo.de/de/properties/W1300-41901-0015-0404.html",
     "id": "inberlinwohnen_https___www_degewo_de_de_properties_w1300_41901_0015_0404_html",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Rüdickenstraße 27, 13053 Neu-Hohenschönhausen",
@@ -87,7 +77,7 @@
     "size": 94,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14589-72.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1771_14589_72_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Am Mühlanger 5, 12349 Buckow",
@@ -97,7 +87,7 @@
     "size": 72.73,
     "link": "https://stadtundland.de/wohnungssuche/1001%2F5246%2F00182",
     "id": "inberlinwohnen_https___stadtundland_de_wohnungssuche_1001_2f5246_2f00182",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Ringslebenstraße 76A, 12353 Buckow",
@@ -107,7 +97,17 @@
     "size": 80.08,
     "link": "https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-77711-0101-0033",
     "id": "inberlinwohnen_https___www_gewobag_de_fuer_mietinteressentinnen_mietangebote_7100_77711_0101_0033",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
+  },
+  {
+    "title": "An den Buckower Feldern 19, 12349 Buckow",
+    "address": "An den Buckower Feldern 19, 12349 Buckow",
+    "rooms": 3,
+    "rent": 1519.29,
+    "size": 79.46,
+    "link": "https://stadtundland.de/wohnungssuche/1001%2F5248%2F00183",
+    "id": "inberlinwohnen_https___stadtundland_de_wohnungssuche_1001_2f5248_2f00183",
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "An den Buckower Feldern 6, 12349 Buckow",
@@ -117,7 +117,7 @@
     "size": 72.1,
     "link": "https://stadtundland.de/wohnungssuche/1001%2F5246%2F00132",
     "id": "inberlinwohnen_https___stadtundland_de_wohnungssuche_1001_2f5246_2f00132",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Große-Leege-Straße 108, 13055 Alt-Hohenschönhausen",
@@ -127,7 +127,7 @@
     "size": 98,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20600-50.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_20600_50_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Gärtnerstraße 10, 13055 Alt-Hohenschönhausen",
@@ -137,17 +137,7 @@
     "size": 86,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20600-110.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_20600_110_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
-  },
-  {
-    "title": "Wendenschloßstraße 160A, 12557 Köpenick",
-    "address": "Wendenschloßstraße 160A, 12557 Köpenick",
-    "rooms": 5,
-    "rent": 1510.27,
-    "size": 98.71,
-    "link": "https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/6025-32592-0502-0215",
-    "id": "inberlinwohnen_https___www_gewobag_de_fuer_mietinteressentinnen_mietangebote_6025_32592_0502_0215",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Lily-Braun-Straße 15, 12619 Hellersdorf",
@@ -157,7 +147,7 @@
     "size": 84.68,
     "link": "https://stadtundland.de/wohnungssuche/1050%2F8222%2F00145",
     "id": "inberlinwohnen_https___stadtundland_de_wohnungssuche_1050_2f8222_2f00145",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Schwielowseestraße 41, 13599 Haselhorst",
@@ -167,7 +157,7 @@
     "size": 75.87,
     "link": "https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01032-0702-0167",
     "id": "inberlinwohnen_https___www_gewobag_de_fuer_mietinteressentinnen_mietangebote_0100_01032_0702_0167",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Schwielowseestraße 38, 13599 Haselhorst",
@@ -177,27 +167,7 @@
     "size": 73.84,
     "link": "https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01032-0501-0114",
     "id": "inberlinwohnen_https___www_gewobag_de_fuer_mietinteressentinnen_mietangebote_0100_01032_0501_0114",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
-  },
-  {
-    "title": "Hellersdorfer Straße 91B, 12619 Hellersdorf",
-    "address": "Hellersdorfer Straße 91B, 12619 Hellersdorf",
-    "rooms": 4,
-    "rent": 1615.71,
-    "size": 86.7,
-    "link": "https://www.gesobau.de/?immo_ref=10-03209-00002-1020-d3c95f5a-8efa-43cc-808e-1538657319cf",
-    "id": "inberlinwohnen_https___www_gesobau_de__immo_ref_10_03209_00002_1020_d3c95f5a_8efa_43cc_808e_1538657319cf",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
-  },
-  {
-    "title": "Köpenicker Allee 131, 10318 Karlshorst",
-    "address": "Köpenicker Allee 131, 10318 Karlshorst",
-    "rooms": 3,
-    "rent": 745.5,
-    "size": 71,
-    "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-26484-9991.html?t=ibw",
-    "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_26484_9991_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Köpenicker Allee 131, 10318 Karlshorst",
@@ -207,7 +177,7 @@
     "size": 76,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-26484-9992.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_26484_9992_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Eidechsenweg 5, 13591 Staaken",
@@ -217,7 +187,7 @@
     "size": 71.67,
     "link": "https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-517516/2/57",
     "id": "inberlinwohnen_https___www_wbm_de_wohnungen_berlin_angebote_details__tx_openimmo_immobilie_immobilie__50_517516_2_57",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Wendenschloßstraße 168, 12557 Köpenick",
@@ -227,7 +197,7 @@
     "size": 79.83,
     "link": "https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/6025-32592-0201-0062",
     "id": "inberlinwohnen_https___www_gewobag_de_fuer_mietinteressentinnen_mietangebote_6025_32592_0201_0062",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Wendenschloßstraße 166, 12557 Köpenick",
@@ -237,17 +207,17 @@
     "size": 73.96,
     "link": "https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/6025-32592-0301-0113",
     "id": "inberlinwohnen_https___www_gewobag_de_fuer_mietinteressentinnen_mietangebote_6025_32592_0301_0113",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
-    "title": "Am Falkenberg 11, 12524 Bohnsdorf",
-    "address": "Am Falkenberg 11, 12524 Bohnsdorf",
-    "rooms": 4,
-    "rent": 1797.65,
-    "size": 98.34,
-    "link": "https://www.degewo.de/de/properties/W1100-42014-0178-0201.html",
-    "id": "inberlinwohnen_https___www_degewo_de_de_properties_w1100_42014_0178_0201_html",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "title": "Wendenschloßstraße 160A, 12557 Köpenick",
+    "address": "Wendenschloßstraße 160A, 12557 Köpenick",
+    "rooms": 5,
+    "rent": 1510.27,
+    "size": 98.71,
+    "link": "https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/6025-32592-0502-0215",
+    "id": "inberlinwohnen_https___www_gewobag_de_fuer_mietinteressentinnen_mietangebote_6025_32592_0502_0215",
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Max-Herrmann-Straße 10, 12687 Marzahn",
@@ -257,7 +227,7 @@
     "size": 75.73,
     "link": "https://www.degewo.de/de/properties/W1100-52112-0114-0603.html",
     "id": "inberlinwohnen_https___www_degewo_de_de_properties_w1100_52112_0114_0603_html",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Goeckestraße 32C, 13055 Alt-Hohenschönhausen",
@@ -267,17 +237,37 @@
     "size": 74,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14578-56.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1771_14578_56_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
-    "title": "Am Falkenberg 11A, 12524 Bohnsdorf",
-    "address": "Am Falkenberg 11A, 12524 Bohnsdorf",
+    "title": "Hellersdorfer Straße 91B, 12619 Hellersdorf",
+    "address": "Hellersdorfer Straße 91B, 12619 Hellersdorf",
+    "rooms": 4,
+    "rent": 1615.71,
+    "size": 86.7,
+    "link": "https://www.gesobau.de/?immo_ref=10-03209-00002-1020-d3c95f5a-8efa-43cc-808e-1538657319cf",
+    "id": "inberlinwohnen_https___www_gesobau_de__immo_ref_10_03209_00002_1020_d3c95f5a_8efa_43cc_808e_1538657319cf",
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
+  },
+  {
+    "title": "Köpenicker Allee 131, 10318 Karlshorst",
+    "address": "Köpenicker Allee 131, 10318 Karlshorst",
     "rooms": 3,
-    "rent": 1589.27,
-    "size": 86.94,
-    "link": "https://www.degewo.de/de/properties/W1100-42014-0159-0204.html",
-    "id": "inberlinwohnen_https___www_degewo_de_de_properties_w1100_42014_0159_0204_html",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "rent": 745.5,
+    "size": 71,
+    "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-26484-9991.html?t=ibw",
+    "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_26484_9991_html_t_ibw",
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
+  },
+  {
+    "title": "Am Falkenberg 11, 12524 Bohnsdorf",
+    "address": "Am Falkenberg 11, 12524 Bohnsdorf",
+    "rooms": 4,
+    "rent": 1797.65,
+    "size": 98.34,
+    "link": "https://www.degewo.de/de/properties/W1100-42014-0178-0201.html",
+    "id": "inberlinwohnen_https___www_degewo_de_de_properties_w1100_42014_0178_0201_html",
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Bohnsdorfer Weg 105, 12524 Altglienicke",
@@ -287,7 +277,7 @@
     "size": 83.9,
     "link": "https://www.degewo.de/de/properties/W1100-41908-0373-0201.html",
     "id": "inberlinwohnen_https___www_degewo_de_de_properties_w1100_41908_0373_0201_html",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Kleeblattstraße 16, 12524 Altglienicke",
@@ -297,7 +287,17 @@
     "size": 69.94,
     "link": "https://www.degewo.de/de/properties/W1100-41908-0144-0107.html",
     "id": "inberlinwohnen_https___www_degewo_de_de_properties_w1100_41908_0144_0107_html",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
+  },
+  {
+    "title": "Am Falkenberg 11A, 12524 Bohnsdorf",
+    "address": "Am Falkenberg 11A, 12524 Bohnsdorf",
+    "rooms": 3,
+    "rent": 1589.27,
+    "size": 86.94,
+    "link": "https://www.degewo.de/de/properties/W1100-42014-0159-0204.html",
+    "id": "inberlinwohnen_https___www_degewo_de_de_properties_w1100_42014_0159_0204_html",
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Fürstenwalder Allee 326, 12589 Rahnsdorf",
@@ -307,7 +307,7 @@
     "size": 85.79,
     "link": "https://www.degewo.de/de/properties/W1100-02530-0032-0301.html",
     "id": "inberlinwohnen_https___www_degewo_de_de_properties_w1100_02530_0032_0301_html",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Bohnsdorfer Weg 105, 12524 Altglienicke",
@@ -317,27 +317,7 @@
     "size": 69.45,
     "link": "https://www.degewo.de/de/properties/W1100-41908-0372-0107.html",
     "id": "inberlinwohnen_https___www_degewo_de_de_properties_w1100_41908_0372_0107_html",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
-  },
-  {
-    "title": "Kirchsteig 123A, 12524 Bohnsdorf",
-    "address": "Kirchsteig 123A, 12524 Bohnsdorf",
-    "rooms": 4,
-    "rent": 1292,
-    "size": 85,
-    "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-27696-43.html?t=ibw",
-    "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_27696_43_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
-  },
-  {
-    "title": "Kirchsteig 123A, 12524 Bohnsdorf",
-    "address": "Kirchsteig 123A, 12524 Bohnsdorf",
-    "rooms": 3,
-    "rent": 1398.4,
-    "size": 76,
-    "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-27696-46.html?t=ibw",
-    "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_27696_46_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Kirchsteig 111, 12524 Bohnsdorf",
@@ -347,7 +327,7 @@
     "size": 76,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-27696-6.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_27696_6_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Kirchsteig 111, 12524 Bohnsdorf",
@@ -357,7 +337,7 @@
     "size": 72,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-27696-7.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_27696_7_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Kirchsteig 111, 12524 Bohnsdorf",
@@ -367,7 +347,7 @@
     "size": 76,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-27696-9996.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_27696_9996_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Kirchsteig 111, 12524 Bohnsdorf",
@@ -377,17 +357,7 @@
     "size": 84,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-27696-9998.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_27696_9998_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
-  },
-  {
-    "title": "Kirchsteig 117, 12524 Bohnsdorf",
-    "address": "Kirchsteig 117, 12524 Bohnsdorf",
-    "rooms": 3,
-    "rent": 1324.8,
-    "size": 72,
-    "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-27696-23.html?t=ibw",
-    "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_27696_23_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.860Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Kirchsteig 117A, 12524 Bohnsdorf",
@@ -397,7 +367,7 @@
     "size": 85,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-27696-27.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_27696_27_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Kirchsteig 117A, 12524 Bohnsdorf",
@@ -407,7 +377,7 @@
     "size": 76,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-27696-30.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_27696_30_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Kirchsteig 123, 12524 Bohnsdorf",
@@ -417,7 +387,7 @@
     "size": 70,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-27696-36.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_27696_36_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Kirchsteig 123, 12524 Bohnsdorf",
@@ -427,7 +397,7 @@
     "size": 72,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-27696-39.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_27696_39_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Kirchsteig 111, 12524 Bohnsdorf",
@@ -437,17 +407,27 @@
     "size": 70,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-27696-4.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_27696_4_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
-    "title": "Daumstraße 64A, 13599 Haselhorst",
-    "address": "Daumstraße 64A, 13599 Haselhorst",
+    "title": "Kirchsteig 123A, 12524 Bohnsdorf",
+    "address": "Kirchsteig 123A, 12524 Bohnsdorf",
     "rooms": 4,
-    "rent": 1789.44,
-    "size": 85.69,
-    "link": "https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01036-0801-0321",
-    "id": "inberlinwohnen_https___www_gewobag_de_fuer_mietinteressentinnen_mietangebote_0100_01036_0801_0321",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "rent": 1292,
+    "size": 85,
+    "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-27696-43.html?t=ibw",
+    "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_27696_43_html_t_ibw",
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
+  },
+  {
+    "title": "Kirchsteig 123A, 12524 Bohnsdorf",
+    "address": "Kirchsteig 123A, 12524 Bohnsdorf",
+    "rooms": 3,
+    "rent": 1398.4,
+    "size": 76,
+    "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-27696-46.html?t=ibw",
+    "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_27696_46_html_t_ibw",
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Kirchsteig 109, 12524 Bohnsdorf",
@@ -457,7 +437,7 @@
     "size": 83,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-27696-1.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_27696_1_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Kirchsteig 111A, 12524 Bohnsdorf",
@@ -467,7 +447,7 @@
     "size": 84,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-27696-10.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_27696_10_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Daumstraße 60, 13599 Haselhorst",
@@ -477,7 +457,7 @@
     "size": 86.71,
     "link": "https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01036-1001-0451",
     "id": "inberlinwohnen_https___www_gewobag_de_fuer_mietinteressentinnen_mietangebote_0100_01036_1001_0451",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Kirchsteig 111A, 12524 Bohnsdorf",
@@ -487,7 +467,7 @@
     "size": 85,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-27696-11.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_27696_11_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Kirchsteig 111A, 12524 Bohnsdorf",
@@ -497,7 +477,7 @@
     "size": 76,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-27696-14.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_27696_14_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Kirchsteig 117, 12524 Bohnsdorf",
@@ -507,17 +487,17 @@
     "size": 70,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-27696-20.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_27696_20_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
-    "title": "Igelsteig 7A, 12557 Köpenick",
-    "address": "Igelsteig 7A, 12557 Köpenick",
+    "title": "Kirchsteig 117, 12524 Bohnsdorf",
+    "address": "Kirchsteig 117, 12524 Bohnsdorf",
     "rooms": 3,
-    "rent": 1772.19,
-    "size": 84.03,
-    "link": "https://www.degewo.de/de/properties/W1300-41901-0023-0201.html",
-    "id": "inberlinwohnen_https___www_degewo_de_de_properties_w1300_41901_0023_0201_html",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "rent": 1324.8,
+    "size": 72,
+    "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-27696-23.html?t=ibw",
+    "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_27696_23_html_t_ibw",
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Eisenhutweg 74, 12487 Johannisthal",
@@ -527,7 +507,7 @@
     "size": 92.09,
     "link": "https://www.degewo.de/de/properties/W1100-42201-0076-0202.html",
     "id": "inberlinwohnen_https___www_degewo_de_de_properties_w1100_42201_0076_0202_html",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Wendenschloßstraße 130B, 12557 Köpenick",
@@ -537,7 +517,17 @@
     "size": 75.06,
     "link": "https://www.degewo.de/de/properties/W1300-66221-0066-0304.html",
     "id": "inberlinwohnen_https___www_degewo_de_de_properties_w1300_66221_0066_0304_html",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
+  },
+  {
+    "title": "Daumstraße 64A, 13599 Haselhorst",
+    "address": "Daumstraße 64A, 13599 Haselhorst",
+    "rooms": 4,
+    "rent": 1789.44,
+    "size": 85.69,
+    "link": "https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01036-0801-0321",
+    "id": "inberlinwohnen_https___www_gewobag_de_fuer_mietinteressentinnen_mietangebote_0100_01036_0801_0321",
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Schützenstraße 11B, 12526 Altglienicke",
@@ -547,7 +537,7 @@
     "size": 69.45,
     "link": "https://www.degewo.de/de/properties/W1300-42001-0161-0202.html",
     "id": "inberlinwohnen_https___www_degewo_de_de_properties_w1300_42001_0161_0202_html",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Rhenaniastraße 50, 13599 Haselhorst",
@@ -557,7 +547,17 @@
     "size": 66.74,
     "link": "https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01035-0201-0062",
     "id": "inberlinwohnen_https___www_gewobag_de_fuer_mietinteressentinnen_mietangebote_0100_01035_0201_0062",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
+  },
+  {
+    "title": "Igelsteig 7A, 12557 Köpenick",
+    "address": "Igelsteig 7A, 12557 Köpenick",
+    "rooms": 3,
+    "rent": 1772.19,
+    "size": 84.03,
+    "link": "https://www.degewo.de/de/properties/W1300-41901-0023-0201.html",
+    "id": "inberlinwohnen_https___www_degewo_de_de_properties_w1300_41901_0023_0201_html",
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Eisenhutweg 66A, 12487 Johannisthal",
@@ -567,7 +567,7 @@
     "size": 88.09,
     "link": "https://www.degewo.de/de/properties/W1100-42201-0403-0103.html",
     "id": "inberlinwohnen_https___www_degewo_de_de_properties_w1100_42201_0403_0103_html",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Hellersdorfer Straße 91B, 12619 Hellersdorf",
@@ -577,7 +577,7 @@
     "size": 87.1,
     "link": "https://www.gesobau.de/?immo_ref=10-03209-00002-1029-599afb63-8269-4e6a-8ebc-ecb1354ad467",
     "id": "inberlinwohnen_https___www_gesobau_de__immo_ref_10_03209_00002_1029_599afb63_8269_4e6a_8ebc_ecb1354ad467",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Hellersdorfer Straße 91A, 12619 Hellersdorf",
@@ -587,17 +587,7 @@
     "size": 70,
     "link": "https://www.gesobau.de/?immo_ref=10-03209-00001-1008-8b1b9358-c6b7-4ad2-8949-1d82bfb2c159",
     "id": "inberlinwohnen_https___www_gesobau_de__immo_ref_10_03209_00001_1008_8b1b9358_c6b7_4ad2_8949_1d82bfb2c159",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
-  },
-  {
-    "title": "Anne-Frank-Straße 6, 12524 Altglienicke",
-    "address": "Anne-Frank-Straße 6, 12524 Altglienicke",
-    "rooms": 3,
-    "rent": 973.5,
-    "size": 71,
-    "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14559-62.html?t=ibw",
-    "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1771_14559_62_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Anne-Frank-Straße 4, 12524 Altglienicke",
@@ -607,7 +597,7 @@
     "size": 71,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14559-45.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1771_14559_45_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Joachimstraße 2, 12555 Köpenick",
@@ -617,7 +607,7 @@
     "size": 81.53,
     "link": "https://www.degewo.de/de/properties/W1300-41103-0052-0305.html",
     "id": "inberlinwohnen_https___www_degewo_de_de_properties_w1300_41103_0052_0305_html",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Daumstraße 72A, 13599 Haselhorst",
@@ -627,7 +617,7 @@
     "size": 81.55,
     "link": "https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01036-0401-0206",
     "id": "inberlinwohnen_https___www_gewobag_de_fuer_mietinteressentinnen_mietangebote_0100_01036_0401_0206",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Anne-Frank-Straße 4, 12524 Altglienicke",
@@ -637,7 +627,7 @@
     "size": 71,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14559-40.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1771_14559_40_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Mohnweg 9, 12524 Altglienicke",
@@ -647,7 +637,17 @@
     "size": 70,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14559-432.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1771_14559_432_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
+  },
+  {
+    "title": "Anne-Frank-Straße 6, 12524 Altglienicke",
+    "address": "Anne-Frank-Straße 6, 12524 Altglienicke",
+    "rooms": 3,
+    "rent": 973.5,
+    "size": 71,
+    "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14559-62.html?t=ibw",
+    "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1771_14559_62_html_t_ibw",
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Huronseestraße 28, 10319 Friedrichsfelde",
@@ -657,7 +657,7 @@
     "size": 75,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20575-9992.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_20575_9992_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Huronseestraße 28, 10319 Friedrichsfelde",
@@ -667,7 +667,7 @@
     "size": 76,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20575-9993.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_20575_9993_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Huronseestraße 28, 10319 Friedrichsfelde",
@@ -677,7 +677,7 @@
     "size": 75,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20575-9994.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_20575_9994_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Huronseestraße 28, 10319 Friedrichsfelde",
@@ -687,17 +687,7 @@
     "size": 76,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20575-9995.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_20575_9995_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
-  },
-  {
-    "title": "Huronseestraße 34, 10319 Friedrichsfelde",
-    "address": "Huronseestraße 34, 10319 Friedrichsfelde",
-    "rooms": 4,
-    "rent": 1290,
-    "size": 86,
-    "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20575-112.html?t=ibw",
-    "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_20575_112_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Huronseestraße 30, 10319 Friedrichsfelde",
@@ -707,7 +697,7 @@
     "size": 86,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20575-38.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_20575_38_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Huronseestraße 28, 10319 Friedrichsfelde",
@@ -717,7 +707,7 @@
     "size": 86,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20575-6.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_20575_6_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Huronseestraße 32, 10319 Friedrichsfelde",
@@ -727,7 +717,7 @@
     "size": 86,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20575-80.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_20575_80_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Huronseestraße 30, 10319 Friedrichsfelde",
@@ -737,7 +727,7 @@
     "size": 99,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20575-9988.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_20575_9988_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Huronseestraße 28, 10319 Friedrichsfelde",
@@ -747,7 +737,7 @@
     "size": 99,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20575-9989.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_20575_9989_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.461Z"
   },
   {
     "title": "Volkradstraße 56, 10319 Friedrichsfelde",
@@ -757,7 +747,17 @@
     "size": 61.5,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20506-16.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_20506_16_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.462Z"
+  },
+  {
+    "title": "Huronseestraße 34, 10319 Friedrichsfelde",
+    "address": "Huronseestraße 34, 10319 Friedrichsfelde",
+    "rooms": 4,
+    "rent": 1290,
+    "size": 86,
+    "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20575-112.html?t=ibw",
+    "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_20575_112_html_t_ibw",
+    "fetchedAt": "2026-08-18T06:16:31.462Z"
   },
   {
     "title": "Knospengrund 29, 12524 Altglienicke",
@@ -767,7 +767,7 @@
     "size": 81.71,
     "link": "https://www.degewo.de/de/properties/W1300-41807-0059-0204.html",
     "id": "inberlinwohnen_https___www_degewo_de_de_properties_w1300_41807_0059_0204_html",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.462Z"
   },
   {
     "title": "Sewanstraße 256A, 10319 Friedrichsfelde",
@@ -777,7 +777,7 @@
     "size": 106,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20551-9995.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_20551_9995_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.462Z"
   },
   {
     "title": "Sewanstraße 256A, 10319 Friedrichsfelde",
@@ -787,7 +787,7 @@
     "size": 70,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20551-9996.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_20551_9996_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.462Z"
   },
   {
     "title": "Sewanstraße 256A, 10319 Friedrichsfelde",
@@ -797,7 +797,7 @@
     "size": 70,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20551-9997.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1770_20551_9997_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.462Z"
   },
   {
     "title": "Streitstraße 5, 13587 Hakenfelde",
@@ -807,7 +807,7 @@
     "size": 73,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14536-9997.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1771_14536_9997_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.462Z"
   },
   {
     "title": "Streitstraße 5, 13587 Hakenfelde",
@@ -817,7 +817,7 @@
     "size": 80,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14536-9999.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1771_14536_9999_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.462Z"
   },
   {
     "title": "Marius-Carpentier-Straße 14, 13587 Hakenfelde",
@@ -827,6 +827,6 @@
     "size": 69,
     "link": "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14539-9995.html?t=ibw",
     "id": "inberlinwohnen_https___www_howoge_de_wohnungen_gewerbe_wohnungssuche_detail_1771_14539_9995_html_t_ibw",
-    "fetchedAt": "2026-08-18T06:01:29.862Z"
+    "fetchedAt": "2026-08-18T06:16:31.462Z"
   }
 ]
