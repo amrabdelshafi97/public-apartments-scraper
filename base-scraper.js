@@ -251,10 +251,6 @@ ${details}`;
     const consoleOutput = this.formatConsoleOutput(newApartments);
     console.log(consoleOutput);
 
-    const summaryMessage = this.formatSummaryMessage(newApartments);
-    console.log(`[${this.timestamp()}] [${source}] Sending summary message...`);
-    await this.sendTelegramNotification(summaryMessage);
-
     console.log(`[${this.timestamp()}] [${source}] Sending ${newApartments.length} individual notifications...`);
     for (const apt of newApartments) {
       const aptMessage = this.formatApartmentMessage(apt);
